@@ -1,5 +1,5 @@
 <h1 align="center">
-     🪐<a href="#" alt="blog"> One For All </a>🪐
+     🎯<a href="#" alt="blog"> One For All </a>🎯
 </h1>
 <h2 align="center">
 	🚀 Concluído 🚀
